@@ -1,0 +1,52 @@
+[
+      {
+    "shop": "ABC Shop",
+    "sellreName": "Jhon Doe",
+    "address": "1, shoper, aayo road",
+    "country": "India",
+    "state": "Gujarat",
+    "city": "Surat",
+    "area": "Bhatar",
+    "mobile": "9876543210",
+    "pincode": "395007",
+    "products": [
+      {"title": "first product name", "price": "123", "discriptions": "first discription", "detailLink" : "https://www.google.co.in/"},
+      {"title": "second product name", "price": "456", "discriptions": "second discription", "detailLink" : "https://www.google.co.in/"},
+      {"title": "second product name", "price": "456", "discriptions": "second discription", "detailLink" : "https://www.google.co.in/"},
+      {"title": "second product name", "price": "456", "discriptions": "second discription", "detailLink" : "https://www.google.co.in/"},
+      {"title": "third product name", "price": "789", "discriptions": "third discription", "detailLink" : "https://www.google.co.in/"}
+    ]
+  },
+  {
+    "shop": "DEF Shop",
+    "sellreName": "Mary Jane",
+    "address": "2, shoper, gayo road",
+    "country": "India",
+    "state": "Maharastra",
+    "city": "Mumbai",
+    "area": "Malaad",
+    "mobile": "9876543210",
+    "pincode": "395008",
+    "products": [
+      {"title": "first product name", "price": "123", "discriptions": "first discription"},
+      {"title": "second product name", "price": "456", "discriptions": "second discription"},
+      {"title": "third product name", "price": "789", "discriptions": "third discription"}
+    ]
+  },
+  {
+    "shop": "GHI Shop",
+    "sellreName": "Peter Parker",
+    "address": "3, shoper, vadhyo road",
+    "country": "India",
+    "state": "Gujarat",
+    "city": "Vadodara",
+    "area": "Maandvi",
+    "mobile": "9876543210",
+    "pincode": "395009",
+    "products": [
+      {"title": "first product name", "price": "123", "discriptions": "first discription"},
+      {"title": "second product name", "price": "456", "discriptions": "second discription"},
+      {"title": "third product name", "price": "789", "discriptions": "third discription"}
+    ]
+  }
+]
